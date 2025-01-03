@@ -1,0 +1,36 @@
+
+.groupOfInfo{
+  flex-direction: column;
+  row-gap: 30px;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  
+}
+.image,.groupText{
+  flex:1
+}
+.image{
+  text-align: center;
+}
+.image img{
+  width: 50%;
+  border-radius: 20px;
+}
+.groupText{
+  padding: 0px 50px;
+}
+.groupText p{
+  line-height: 30px;
+}
+b{
+  margin-right:10px ;
+  font-size: 15px;
+  display: block;
+}
+@media(max-width:500px){
+  .image img{
+    width: 100%;
+  }
+}
+

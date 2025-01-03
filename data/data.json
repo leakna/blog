@@ -1,0 +1,82 @@
+{
+  "data":[
+    {
+      "makeup":{
+        "softmakeup":{
+          "detail":{
+            "mainstep":[
+              "1. Apply a moisturizer, followed by an SPF.",
+              "2. Apply an eye cream.",
+              "3. Use a luminizer or brightening primer for a glowy base.",
+              "4. Dampen a Beauty Blender.",
+              "5. Layer on Mascara",
+              "6. Apply a Hydrating Lipstick Formula",
+              "7. Set the Look In Place"
+            ],
+            "step":[
+              " I like Supergoop! Superscreen Daily Moisturizer because it’s lightweight, hydrating, and also has sun protection. (Just a reminder: it’s important to wear sunscreen every single day, even if you’re not going outside!)",
+              "Elemis Peptide 4 Eye Recovery Cream is great because is layers well underneath makeup. (I’m VERY particular about my eye creams.) If you have extra time, you can use an undereye mask or gel patch in lieu of eye cream.",
+              " NARS Super Radiant Booster is a great option.",
+              "I prefer a damp beauty blender over a regular sponge because I think it provides the smoothest application.",
+              "To give your eyes definition, apply a lengthening mascara, like L’Oréal Paris Telescopic Instant Lift Washable Mascara for elongated lashes that look natural, but with added drama. For a toned-down look apply just one coat, and to achieve bolder definition, layer on one to two additional coats. ",
+              "One of the defining characteristics of a soft glam makeup look is a natural-looking lip color — this goes for the finish as much as it does for the color. Use the Tik-Tok beloved L’Oréal Paris Glow Paradise Balm-in-Lipstick for its range of neutral, coral and pink shades that hydrate the lips while providing a subtle glow. The best part is that it delivers pigment without drying the lips or becoming flaky or uncomfortable throughout the day.",
+              "To make sure your look lasts all day long, be sure to set it in place with a setting spray, like the L’Oréal Paris Infallible Pro-Spray and Set Make-Up Oil-Free Setting Spray. Opting for a setting spray over a powder ensures that you’re not left with a powdery or cakey finish.",
+              "Taking inspiration from the colors of the beloved coffee, latte makeup is a popular trend and for good reason. This makeup look is easy to do and can be personalized for a more dramatic or softened version that suits various occasions. Try this trend with a soft glow using brown or beige shades close to your complexion for a personalized latte look. Reach for L’Oréal Paris Infallible Up to 24H Fresh Wear Soft Matte Bronzer to sculpt your face while adding a subtle bronzed glow without any harsh lines. "
+            ]
+          },
+          "image":"https://i.pinimg.com/564x/53/8a/8e/538a8e1e80c74748be96bf586c2708ef.jpg"
+        },
+        "dailymakeup":{
+          "detail":{
+            "mainstep":[
+              "1. No Makeup, Makeup",
+              "2. Sheer Smoky Eye",
+              "3. Jewel-Toned Eyeliner",
+              "4. Bright Lipstick With Winged Eyeliner"
+    
+            ],
+            "step":[
+              "One of the ultimate everyday makeup looks is the classic no makeup, makeup trend that keeps your beauty application simple for a natural-looking appearance. More recently referred to on social media  as the clean look, this easy makeup look allows you to boast dewy skin and flushed cheeks without the need for a ton of products.",
+              "While a traditional smoky eye is known for its dark coloring and sultry stare, this sheer take on this classic eye makeup is a great way to bring a smoky eye into the everyday. The combination of sheer pigment provides a balance of color and definition that’s flattering for both day and night and it’s super easy to recreate. ",
+              " Make your eyeliner the focus of your makeup look with a few swipes of colorful liner on your upper lashline and lower waterline for a bejeweled look. Opt for dark blue, green and red colors to mimic the hues of sapphires, emeralds and rubies. With a focus on eyeliner, you can skip eyeshadow for a bold look without a lot of work. All you have to do is grab a pigmented gel eyeliner in the color of your choice to fill in your waterline — right at the base of your lashes — and draw a line on your top lash line for a rounded eyeliner look. ",
+              "A standout lip color is one of the easiest ways to create an effortless everyday makeup look. Whether you love deep reds and corals or purples and pinks, the right shade can give your face a stunning layer of color without the need for much else. Pair it with a small flick of winged liner and a coat of mascara for voluminous lashes and you’ve got a makeup treasure that takes less than five minutes. "
+            ]
+          },
+          "image":
+            "https://i.pinimg.com/474x/b9/58/74/b958748d32f1b50ca1eda421b84a8bf4.jpg"
+          
+        },
+        "eventmakeup":{
+          "detail":{
+            "mainstep":[
+              "1. Prep Your Skin",
+              "2. Prime According to Your Skin Type",
+              "3. Choose Your Foundation Wisely",
+              "4. Color Correct If Needed",
+              "5. Conceal Trouble Areas",
+              "6. Use Powder Strategically",
+              "7. Go For a Subtle Contour", 
+              "8. Add Color With Blush",
+              "9. Apply Highlighter", 
+              "10. Finish with a Setting Spray or Powder"
+
+            ],
+            "step":[
+              "Clean skin should be the first step to any makeup routine. Professional makeup artist Jaleesa Jaikaran says to cleanse the skin with a face wash or cleanser designed to support your skin’s pH and hydration needs while targeting the removal of dirt, bacteria, excess oil, and dead skill cells. \"Listen to your skin when choosing a cleanser,\" she says. \"If it feels tight and drier, select a gentle cleanser that will not strip the moisture away from the surface of the skin.\" She also recommends making a mild sugar scrub to remove any texture and peeling on the lips, then following up with a lip mask—this allows for lip products to glide on seamlessly. Finally, the last step in prepping the skin requires a great moisturizer that works to lock in all of the goodness (oils and serums) you just applied to the face. Jaikaran is a fan of this hydrating serum from Mary Kay, as it feels lightweight and leaves an incredible all-over glow to the skin. \"This creates a great base to lay foundation over top for smooth and seamless application,\" she says.",
+              "The point of a makeup primer is to create a smooth base for products so that they last all day. The kind of primer formula you use will depend on the needs of your skin. For example, if you have oily skin, look for the words \"mattifying\" or \"silicone-free,\" as these formulas will help reduce shine in areas that produce oil or grease, and will also smooth over enlarged pores that would otherwise cause foundation to appear textured. If you have dry skin, look for words like \"dewy,\" \"hydrating,\" \"luminous,\" \"brightening,\" and \"glowing\" when shopping for a primer, like Pixi by Petra +C VIT Brightening Perfector ($18) that uses vitamin C to amp up the skin's radiance.",
+              "If it's a special event (or one where you'll be photographed), chances are you need your foundation to be long-wearing (after all, no one wants a greasy t-zone come midnight). Jaikaran says to select a foundation that has over 12 to 16 hours of staying power without compromising your skin or creasing, as well as one that creates a flawless, airbrushed finish. We're fans of this medium-coverage pick from Bobbi Brown, which promises up to 16 hours of flawless skin with its long-wear, transfer-, and sweat-resistant formula.",
+              "\"Color correcting helps minimize the layers of concealer or foundation you may have used to hide a dark circle or blemish,\" notes Jaikaran. \"It is essentially using a color that will cancel out or neutralize the darkness of the circles on your face.\" She notes that for dark circles on medium to deep-toned skin, your color corrector will range from a bright to brick-toned orange corrector. On light to tan skin tones, your color corrector would probably be in the peach range. \"The trick is to apply the color corrector first on top of the area needing correction and then tap in the product with fingers or a brush,\" she says. \"When the area appears less dark and closer to your natural skin tone, you can safely conceal using true to skin concealer.\"",
+              "When it comes to the under-eye area, it's better to use concealer sparingly for best results. \"This area is prone to fine lines, so spot concealing is ideal,\" notes St. Jean, who adds that it may be unnecessary to apply a heavy layer of concealer all over the under-eye area—start by applyng it on the inner and outer eye area and build up as necessary. This makes the area less prone to creasing, too. Because this concealer pick from Lancôme is in wand form, it's perfect for ensuring you don't over-apply.",
+              "Though you may be tempted to slather on the face powder, less is more. \"Rather than applying powder all over the face, I recommend only powdering the areas that will read too shiny on camera like the middle of the forehead, sides of the nose, and chin,\" suggests St. Jean. \"When applying the powder, use a small fluffy brush and gently tap the product into the areas that need it.\" Go for a colorless powder like this one from Thrive Causemetics—it's less likely to disrupt your freshly applied foundation.",
+              "Contouring is the step of your makeup routine that can make or break your look—too much will make it look overly done, but the right amount will add definition in all the right places.",
+              "If you find your makeup looking flat at this point, now is the time to add in some life with blush. Since blush is one of the first things to fade, we're fans of cream formulas that leave behind a natural flush as the event goes on. Jane Iredale's Glow Time Blush Stick ($38) is available in five hues and is as beautiful on the skin as it is good for it—jojoba seed oil smoothes the skin while the blendable formula adds the perfect amount of color.",
+              "According to Jaikaran, highlighter should be placed on the high points of the face to accentuate or bring forward those areas. \"I really love applying product on the highest points of the cheekbones, under the brow bone, and along the bridge of the nose,\" she notes. \"To add a bit of extra glam for a special event, try applying highlighter along the cupid’s bow at the top of lips.\"",
+              "Go for the classic: a smoky eye. Here's how St. Jean recommends applying your eyeshadows: \"Apply a wash of dark eyeshadow on the entire eyelid and then blend the shadow along the crease with a fluffy eyeshadow brush. Be careful not to blend the shadow too far upwards. By blending, the goal is to soften the edges of the shadow.\" Pop on a matte liquid eyeliner on the upper lash line to lift the eye et voila! You're ready for lashes."
+            ]
+          },
+          "image":"https://i.pinimg.com/564x/dc/8d/df/dc8ddf728fef281dbe41ba6335a8e693.jpg"
+        }
+      }
+    }
+  ]
+}
